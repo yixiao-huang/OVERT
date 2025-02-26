@@ -22,6 +22,29 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
   <img src="figs/overt-workflow.png" alt="Overview of OVERT" style="width:100%;">
 
 ## Evaluation results
+
+<!-- First row (three images) -->
+<p align="center">
+  <img src="figs/model-eval/eval_Imagen-3.png" alt="Image 1" width="30%">
+  <img src="figs/model-eval/eval_DALL-E-3-API.png" alt="Image 2" width="30%">
+  <img src="figs/model-eval/eval_DALL-E-3-web.png" alt="Image 3" width="30%">
+</p>
+
+<p align="center">
+  (a) Imagen-3 &emsp; (b) DALL-E-3-API &emsp; (c) DALL-E-3-web
+</p>
+
+<!-- Second row (two images) -->
+<p align="center">
+  <img src="figs/model-eval/eval_FLUX1.1-Pro.png" alt="Image 4" width="30%">
+  <img src="figs/model-eval/eval_SD-3.5-Large.png" alt="Image 5" width="30%">
+</p>
+
+<p align="center">
+  (d) FLUX1.1-Pro &emsp; (e) SD-3.5-Large
+</p>
+
+
 <!-- First row: three images -->
 <div style="display: flex; flex-direction: row; justify-content: flex-start;">
   <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
