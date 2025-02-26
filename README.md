@@ -64,11 +64,12 @@ You can reproduce the evaluation results by calling the `main.py` function. For 
 python main.py \
     --model_name 'imagen-3.0-generate-002' \
     --category 'sexual_content' \
+    --split 'mini' \
 ```
 
 Specification of arguments:
 
-- `--model`: Currently support these following models for generation:
+- `--model-name`: Currently support these following models for generation:
   - `imagen-3.0-generate-002`, [Imagen-3](https://deepmind.google/technologies/imagen-3/)
   - `dall-e-3`, [DALL-E-3](https://openai.com/index/dall-e-3/)
   - `fal-ai/flux-pro/v1.1`, [FLUX1.1-Pro](https://fal.ai/models/fal-ai/flux-pro/v1.1)
