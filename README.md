@@ -10,7 +10,7 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
 
 <figure id="overview-overt" style="text-align:center;">
   <!-- Adjust the path and width as needed -->
-  <img src="figs/overt_overview_response.png" alt="Overview of OVERT" style="width:100%;">
+  <img src="figs/overt_overview.png" alt="Overview of OVERT" style="width:100%;">
   <figcaption>
     <strong>Left:</strong> Overview of OVERT. 
     <strong>Right:</strong> Sample prompts in OVERT and corresponding refusal responses 
