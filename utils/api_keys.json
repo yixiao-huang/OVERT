@@ -1,0 +1,8 @@
+
+{
+    "imagen": "YOUR_IMAGEN_API_KEY",
+
+    "dall-e": "YOUR_DALLE_API_KEY",
+    
+    "flux": "YOUR_FLUX_API_KEY"
+}
