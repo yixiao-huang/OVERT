@@ -44,35 +44,6 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
   (d) FLUX1.1-Pro &emsp; (e) SD-3.5-Large
 </p>
 
-
-<!-- First row: three images -->
-<div style="display: flex; flex-direction: row; justify-content: flex-start;">
-  <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_Imagen-3.png" alt="Image 1" style="width: 100%;"/>
-    <div>(a) Imagen-3</div>
-  </div>
-  <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_DALL-E-3-API.png" alt="Image 2" style="width: 100%;"/>
-    <div>(b) DALL-E-3-API</div>
-  </div>
-  <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_DALL-E-3-web.png" alt="Image 3" style="width: 100%;"/>
-    <div>(c) DALL-E-3-web</div>
-  </div>
-</div>
-
-<!-- Second row: two images, centered -->
-<div style="display: flex; flex-direction: row; justify-content: center; margin-top: 20px;">
-  <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_FLUX1.1-Pro.png" alt="Image 4" style="width: 45%;"/>
-    <div>(d) FLUX1.1-Pro</div>
-  </div>
-  <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_SD-3.5-Large.png" alt="Image 5" style="width: 45%;"/>
-    <div>(e) SD-3.5-Large</div>
-  </div>
-</div>
-
 **Figure 1**: Evaluation results on OVERT-mini measured by the over-refusal rate.
 
 You can reproduce the evaluation results by calling the `main.py` function. For example:
