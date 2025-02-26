@@ -41,11 +41,11 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
 <!-- Second row: two images, centered -->
 <div style="display: flex; flex-direction: row; justify-content: center; margin-top: 20px;">
   <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_FLUX1.1-Pro.png" alt="Image 4" style="width: 100%;"/>
+    <img src="figs/model-eval/eval_FLUX1.1-Pro.png" alt="Image 4" style="width: 45%;"/>
     <div>(d) FLUX1.1-Pro</div>
   </div>
   <div style="flex: 0 0 31%; text-align: center; margin: 0 1%;">
-    <img src="figs/model-eval/eval_SD-3.5-Large.png" alt="Image 5" style="width: 100%;"/>
+    <img src="figs/model-eval/eval_SD-3.5-Large.png" alt="Image 5" style="width: 45%;"/>
     <div>(e) SD-3.5-Large</div>
   </div>
 </div>
