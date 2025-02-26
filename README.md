@@ -77,7 +77,7 @@ Specification of arguments:
 - `--category`: Our dataset covers 9 categories including: privacy (individual), privacy (public), copyright violations, self-harm, sexual content, illegal activities, unethical & unsafe actions, discrimination and violence
 - `--split`: You can choose to evaluate on our `mini` dataset or `full` dataset. 
   
-By default, the results will be stored under `eval_logs/{category}/{model_name}`. In addition to the generated image, we store a `eval_results_{split}.json` file containing a dictionary for each generation with the following key information:
+By default, the results will be stored under `eval_logs/{category}/{model_name}`. In addition to the generated images, we store a `eval_results_{split}.json` file containing a dictionary for each evaluation with the following information:
 
 ```json
 {
