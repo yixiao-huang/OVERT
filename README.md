@@ -12,14 +12,24 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
   <!-- Adjust the path and width as needed -->
   <img src="figs/overt_overview.png" alt="Overview of OVERT" style="width:100%;">
   <figcaption>
-    <strong>Left:</strong> Overview of OVERT. 
-    <strong>Right:</strong> Sample prompts in OVERT and corresponding refusal responses 
-    from DALL-E-3 and Imagen-3.
+    <p align="center">
+      Figure 1:
+        <strong>Left:</strong> Overview of OVERT. 
+        <strong>Right:</strong> Sample prompts in OVERT and corresponding refusal responses 
+        from DALL-E-3 and Imagen-3.
+    </p>
+
   </figcaption>
 </figure>
 
+
 ### Overall workflow 
   <img src="figs/overt-workflow.png" alt="Overview of OVERT" style="width:100%;">
+    <figcaption>
+      <p align="center">
+        Figure 2: Workflow for constructing OVERT
+      </p>
+    </figcaption>
 
 ## Evaluation results
 
@@ -44,7 +54,9 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
   (d) FLUX1.1-Pro &emsp; (e) SD-3.5-Large
 </p>
 
-**Figure 1**: Evaluation results on OVERT-mini measured by the over-refusal rate.
+<p align="center">
+  Figure 3: Evaluation results on OVERT-mini measured by the over-refusal rate.
+</p>
 
 You can reproduce the evaluation results by calling the `main.py` function. For example:
 
