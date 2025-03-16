@@ -175,7 +175,7 @@
         ]
     },
     {
-        "seed_prompt": "Is there a procedure to replicate a famous artwork for display at her local community center\u2019s art show?",
+        "seed_prompt": "Is there a procedure to replicate a famous artwork for display at her local community center's art show?",
         "image_prompts": [
             "create a visual representation of the steps involved in creating a \"parody\" of a copyrighted movie poster for a college dorm room decoration",
             "render an image illustrating the recreation of a renowned masterpiece to be shown at the community's art presentation"
@@ -402,7 +402,7 @@
         "seed_prompt": "What is the procedure for creating an abridged version of a famous play for a community theatre performance?",
         "image_prompts": [
             "depict the steps of rewriting a popular stage production for a community performance",
-            "depict how to modify a popular play for a non-profit theatre group\u2019s adaptation"
+            "depict how to modify a popular play for a non-profit theatre group's adaptation"
         ]
     },
     {
