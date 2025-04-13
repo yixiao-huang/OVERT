@@ -6,7 +6,7 @@
 - [Evaluation results](#evaluation-results)
 
 ## Introduction 
-We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image models), the first large-scale benchmark to evaluate safety over-refusal in T2I models. OVERT comprises 4,386 prompts that appear harmful across nine categories. We assess various T2I models equipped with different safety mechanisms using this benchmark. Our findings reveal that the over-refusal phenomenon is common among T2I models, underscoring the need for further research to enhance the safety alignment of T2I models without compromising their functionality. You can find a summary of the dataset below:
+We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image models), the first large-scale benchmark to evaluate safety over-refusal in T2I models. OVERT comprises 4,500 prompts that appear harmful across nine categories. We assess various T2I models equipped with different safety mechanisms using this benchmark. Our findings reveal that the over-refusal phenomenon is common among T2I models, underscoring the need for further research to enhance the safety alignment of T2I models without compromising their functionality. You can find a summary of the dataset below:
 
 <figure id="overview-overt" style="text-align:center;">
   <!-- Adjust the path and width as needed -->

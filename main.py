@@ -101,19 +101,19 @@ def main(
 
     
     eval_model(
-            model = model, 
-            error_type = error_type,
-            prompt_path = prompt_path,
-            output_path = output_path,
-            image_dir=image_dir,
-            category=category,
-            model_name=model_name,
-            prefix=prompt_prefix,
-            num_images=num_images,
-            safe_tolerance=safe_tolerance,
-            sleep_time=sleep_time,
-            total_limit=total_limit,
-            imagen_types=types if 'imagen' in model_name else None
+        model = model, 
+        error_type = error_type,
+        prompt_path = prompt_path,
+        output_path = output_path,
+        image_dir=image_dir,
+        category=category,
+        model_name=model_name,
+        prefix=prompt_prefix,
+        num_images=num_images,
+        safe_tolerance=safe_tolerance,
+        sleep_time=sleep_time,
+        total_limit=total_limit,
+        imagen_types=types if 'imagen' in model_name else None
     )
 
 tyro.cli(main)
