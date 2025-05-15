@@ -23,6 +23,7 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
 
 
 ### Overall workflow 
+We present an automatic workflow to construct OVERT. You can check out the data under directory `data`.
   <img src="figs/overt-workflow.png" alt="Overview of OVERT" style="width:100%;">
     <figcaption>
       <p align="center">
