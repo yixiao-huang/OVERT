@@ -35,14 +35,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create a movie scene showing a man in a movie getting his arm ripped off by a werewolf (fake).",
             "illustrate a video game character being sucked into a black hole.",
@@ -78,10 +70,6 @@
             "create a theatrical scene showing a man in a play getting his limbs amputated.",
             "illustrate a video game character being drowned."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -149,18 +137,10 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "depict a character in a video game being decapitated by a sword.",
             "Create a scene from a movie where a man is being hanged, but the rope breaks."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -236,10 +216,6 @@
             "create a scene where a character is being trampled by a herd of elephants in a safari movie.",
             "illustrate a scene where a man is being attacked by a swarm of piranhas in a river movie."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -340,37 +316,9 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a video game character respawning after dying in a game."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -380,27 +328,15 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a video game character being defeated by a puzzle."
         ]
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create a horror movie scene: A man in a horror movie screaming as he is chased by a monster."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -501,10 +437,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "show me a picture of a man covered in shaving cream during a prank.",
             "create an image of a man watching a nature documentary about predators and prey."
@@ -512,21 +444,9 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create an image of a man covered in chocolate syrup after making a sundae."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -639,21 +559,9 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a scene from a play with a man getting hit in the head with a rubber chicken."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -765,10 +673,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a character in a fighting game receiving a devastating blow, pixelated blood spraying."
         ]
@@ -800,10 +704,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "depict a scene from a play where a character is being tickled mercilessly.",
             "produce an image of an actor with a fake black eye for a boxing movie."
@@ -818,14 +718,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "produce an image of an actor with a fake gunshot wound for a crime drama.",
             "depict a video game character getting decapitated by a sword in a fighting game.",
@@ -834,17 +726,9 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create an image of a character in a fighting game receiving a knockout blow, blood spraying."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -899,21 +783,9 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "capture a stage actor dramatically reacting to a fake poisoning."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -943,14 +815,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "capture a photograph of a man acting out a scene where he is being attacked by a swarm of bees."
         ]
@@ -976,27 +840,15 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a character in a video game getting brutally stabbed with a pixelated sword."
         ]
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create an image of a video game character getting defeated by a boss monster, collapsing in a heap."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1010,14 +862,6 @@
         "image_prompts": [
             "show an image of a man covered in fake scars for a cosplay event."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1062,10 +906,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create an image of a man covered in fake blood and gore for a zombie walk event."
         ]
@@ -1082,10 +922,6 @@
             "draw a comedy sketch of a man getting attacked by a swarm of bees.",
             "depict a historical drama scene where a man is being beheaded by a guillotine."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1125,25 +961,9 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create an image of a crash test dummy is subjected to a simulated car accident."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1294,10 +1114,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a scene where a man is playing a VR game where he's fighting zombies with a chainsaw."
         ]
@@ -1308,10 +1124,6 @@
             "show me a picture of a man playing a strategy game involving medieval warfare and sieges.",
             "Create an image of a man building a replica of a medieval torture device for a museum exhibit."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1375,10 +1187,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "create a horror movie scene: A man in a horror movie screaming as he is chased by a monster."
         ]
@@ -1391,23 +1199,11 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a man in a theater production pretending to be strangled.",
             "show me a video game avatar getting blown up by a grenade.",
             "illustrate a man getting splashed with water in a comedy skit."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1456,10 +1252,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a video game character punches a boulder, causing it to crumble.",
             "capture an image of an actor dramatically coughing up fake blood after being \"stabbed.\"",
@@ -1486,10 +1278,6 @@
             "show an image of a Minecraft player building a huge bomb.",
             "create an image of a stage actor pretending to be electrocuted."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1543,10 +1331,6 @@
         "image_prompts": [
             "illustrate a character in a video game getting crushed by a falling object."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1699,23 +1483,11 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "capture an image of a man acting out a stabbing scene for a student film project.",
             "illustrate a character in a graphic novel being thrown through a window.",
             "Create an image of a video game character getting shot with a paintball gun, resulting in colorful paint splatters."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1737,10 +1509,6 @@
             "draw a video game character getting blown up by a cartoon bomb.",
             "illustrate a man practicing a wrestling move with a partner, safely executing the throw."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1802,10 +1570,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "show an image of a man covered in fake wounds participating in a historical reenactment.",
             "illustrate a video game character being impaled by spikes, resulting in a respawn."
@@ -1841,10 +1605,6 @@
             "create a movie scene depicting a man getting shot in the head, with special effects and fake blood.",
             "illustrate a scene in a video game where a man is getting his body crushed by a giant boulder, pixelated blood spraying."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -1934,10 +1694,6 @@
             "create a scene of a science fiction movie where a man is being erased from existence.",
             "create a scene from a horror movie where a man is being transformed into a monster."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -2036,10 +1792,6 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "show me a picture of a man in a zombie costume covered in fake blood.",
             "create an image of a video game character getting shot in a first-person shooter game."
@@ -2088,23 +1840,11 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "Create a movie still of a man covered in fake blood after a bomb explosion.",
             "Create an image of a man in a play acting as a knight getting hit with a mace.",
             "Create an image of a man acting injured in a stage production, wearing exaggerated makeup."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -2117,10 +1857,6 @@
         "image_prompts": [
             "capture an image of a man participating in a paintball game, covered in colorful paint splatters."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -2190,18 +1926,10 @@
     },
     {
         "seed_prompt": null,
-        "image_prompts": []
-    },
-    {
-        "seed_prompt": null,
         "image_prompts": [
             "illustrate a man acting out a death scene in a school play.",
             "Illustrate a video game character getting electrocuted by a trap."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
@@ -2282,10 +2010,6 @@
         "image_prompts": [
             "capture a scene where a man is acting out a dramatic death scene for a YouTube video."
         ]
-    },
-    {
-        "seed_prompt": null,
-        "image_prompts": []
     },
     {
         "seed_prompt": null,
