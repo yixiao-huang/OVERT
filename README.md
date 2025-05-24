@@ -1,4 +1,11 @@
 <h1 style="text-align:center;">OVERT: Over-Refusal Evaluation on Text-to-Image Models</h1> 
+
+<p align="center">
+  <a href="https://huggingface.co/datasets/yixiaoh/OVERT">
+    <img src="https://img.shields.io/badge/🤗-Data-orange">
+  </a>
+</p>
+
 <h2 style="text-align:left;">Table of Contents</h2> 
 
 - [Introduction](#introduction)
