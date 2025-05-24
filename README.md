@@ -14,8 +14,8 @@ We introduce **OVERT** (**OVE**r-**R**efusal evaluation on **T**ext-to-image mod
   <figcaption>
     <p align="center">
       Figure 1:
-        <strong>Left:</strong> Overview of OVERT. 
-        <strong>Right:</strong> A sample prompt in OVERT and corresponding refusal responses from four leading T2I models. Flux-1.1-Pro and DALL-E-3 falsely reject the benign request.
+        <strong>Left:</strong> Category distribution of the 4,600 prompts in OVERT.
+        <strong>Right:</strong> A benign prompt from OVERT is refused by FLUX1.1-Pro and DALL-E-3, but accepted by Imagen-3 and SD-3.5.
     </p>
 
   </figcaption>
@@ -27,18 +27,28 @@ We present an automatic workflow to construct OVERT. You can check out the data 
   <img src="figs/overt-workflow.png" alt="Overview of OVERT" style="width:100%;">
     <figcaption>
       <p align="center">
-        Figure 2: Workflow for constructing OVERT
+        Figure 2: OVERT dataset construction pipeline. Prompts are generated via LLMs from WildGuardMix or templates, filtered and audited for safety, deduplicated, and sampled using Chameleon. The final dataset is used to evaluate over-refusal in T2I models.
       </p>
     </figcaption>
 
 ## Evaluation results
 
 <p align="center">
-  <img src="figs/model-eval/safety_vs_overrefusal.png" alt="Image 1" width="80%">
+  <img src="figs/model-eval/safety_vs_overrefusal.png" alt="safety_vs_overrefusal" width="80%">
 </p>
 
 <p align="center">
-  Figure 3: Refusal rates of Text-to-Image (T2I) models on benign prompts (x-axis, OVERT-mini) and harmful prompts (y-axis, OVERT-unsafe), grouped into four broad safety categories. Each point corresponds to a specific model's refusal rate within one broad category, obtained by aggregating across related subsets of the nine fine-grained categories. The results shows that over-refusal is a wildspread issue among T2I models.
+  Figure 3: Refusal rates of Text-to-Image (T2I) models on benign prompts (x-axis, OVERT-mini) and safe response rate on harmful prompts (y-axis, OVERT-unsafe), grouped into four broad safety categories. Each point corresponds to a specific model's refusal rate within one broad category, obtained by aggregating across related subsets of the nine fine-grained categories. The dashed curve shows a quadratic regression fit, highlighting the trade-off between safety and over-refusal.
+</p>
+
+<p align="center">
+  <img src="figs/model-eval/overrefusal_eval_summary.png" alt="overrefusal_eval_summary" width="45%">
+  <img src="figs/model-eval/unsafe_eval_summary.png"
+  alt="unsafe_eval_summary" width="45%">
+</p>
+
+<p align="center">
+  Figure 4: Refusal rates (percentage of requests refused by the models) of five T2I models across nine categories on (a) OVERT-mini (benign prompts) and (b) OVERT-unsafe (harmful prompts). The results show that different models exhibit distinct refusal behaviors across categories.
 </p>
 
 You can reproduce the evaluation results by calling the `main.py` function:
